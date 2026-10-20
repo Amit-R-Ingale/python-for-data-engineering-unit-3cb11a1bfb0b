@@ -1,0 +1,1 @@
+# Hive Scale Log Parser and Swarm Alert Checker
